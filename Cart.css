@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to right, pink, lightblue, white);
+}
+.main{
+   margin-top: 70px;
+}
+h2{
+    margin-left: 200px;
+    color: orangered;
+}
+.cart-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.cart-flex img{
+    margin-right: 650px;
+}
+.main{
+    margin-left: 30%;
+}
+span{
+    color: brown;    
+}
+hr{
+    width: 550px;
+    margin-right: 1000px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.cart-total{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 650px;
+}
+.icon{
+    margin-left: 180px;
+    margin-bottom: 30px;
+}
+button{
+    background-color: orangered;
+    padding: 20px 100px;
+    border-radius: 30px;
+    margin-left: 150px;
+}
